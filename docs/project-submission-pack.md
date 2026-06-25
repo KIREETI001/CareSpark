@@ -5,8 +5,7 @@
 Project name: CareSpark
 
 Team members:
-- Kiree: founder, product strategy, full-stack build, healthcare workflow design
-- Add any additional teammate names in the hackathon portal if applicable
+- Kireeti: founder, product strategy, full-stack build, healthcare workflow design
 
 ## 2. Problem Statement And Target User
 
