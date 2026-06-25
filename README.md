@@ -4,10 +4,6 @@ CareSpark is a Singapore caregiver support MVP. It gives caregivers a calm publi
 
 Live demo: https://the-first-spark.vercel.app
 
-Judge-facing submission page: https://the-first-spark.vercel.app/submission
-
-Submission materials: `docs/project-submission-pack.md`
-
 ## Stack
 
 - Frontend: Vite, React, TypeScript
